@@ -6,3 +6,11 @@ The important aspects of the collision avoidance and the driver's assistance is 
 The feature vector generated from ORB and DAISY is furthermore optimized using K-Means clustering algorithm. This huge feature vector is converted into 16 clusters. This optimized feature vector is trained on 5 different classifiers namely SVM, Decision Tree, Logistic Regression, KNN, Random forest . The accuracy obtained from these classifiers is as follow 82.79%, 68.23%, 57.90%, 84.34%,  80.55% respectively 
 
 [Link to dataset](https://drive.google.com/drive/folders/1O7llkK1FYOWfi0VUd9Wmy0vkJHkHYC_b?usp=sharing)
+
+# How to use?
+
+- Step one: install all needed libraries via pip ( to-do: add requirements.txt)
+- Step two: download the dataset and update the file path on your local machine or drive, if using collab.
+- Step three: run each cell. I have documentated each cell block with a link to references/documentation.
+
+The entire dataset prepartion and augmentation has been undertaken by me, feel free to use the dataset.

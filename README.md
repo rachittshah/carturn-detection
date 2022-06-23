@@ -7,6 +7,13 @@ The feature vector generated from ORB and DAISY is furthermore optimized using K
 
 [Link to dataset](https://drive.google.com/drive/folders/1O7llkK1FYOWfi0VUd9Wmy0vkJHkHYC_b?usp=sharing)
 
+| Dataset Class | No of Images |
+|---------------|--------------|
+| Left          | 7709         |
+| Right         | 8141         |
+| Negative      | 8676         |
+| Total images  | 24526        |
+
 # How to use?
 
 - Step one: install all needed libraries via pip ( to-do: add requirements.txt)

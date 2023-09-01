@@ -7,6 +7,8 @@ The feature vector generated from ORB and DAISY is furthermore optimized using K
 
 To understand these concepts in detail, [please read this paper.](https://github.com/rachittshah/carturn-detection/blob/main/Report_Rachitt%20Shah.pdf)
 
+[Published research](https://link.springer.com/chapter/10.1007/978-981-99-2768-5_39) 
+
 [Link to dataset](https://drive.google.com/drive/folders/1O7llkK1FYOWfi0VUd9Wmy0vkJHkHYC_b?usp=sharing)
 
 | Dataset Class | No of Images |
